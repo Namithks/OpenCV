@@ -10,12 +10,18 @@ To run this project, you need the following libraries:
 
 ## Usage
 
-1. Run the main script to start the hand gesture control:
+How to Run
+
+1.Clone the repository:
+git clone https://github.com/Namithks/OpenCV.git
+cd OpenCV
+
+2. Run the main script to start the hand gesture control:
     ```sh
     python main.py
     ```
 
-2. Use the following gestures to control the media:
+3. Use the following gestures to control the media:
     - 1 finger: Press "right" key
     - 2 fingers: Press "left" key
     - 3 fingers: Press "up" key
